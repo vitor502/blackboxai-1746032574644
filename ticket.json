@@ -1,0 +1,21 @@
+[
+    {
+        "id": "68123f4553aba",
+        "name": "lohohoho",
+        "email": "vitorfs502@gmail.com",
+        "subject": "fgsgsdgsa",
+        "description": "kdfwbdf\u00e7kbw\u00e7f\u00e7WL",
+        "status": "Aberto",
+        "created_at": "2025-04-30 15:18:29"
+    },
+    {
+        "id": "681243840e75d",
+        "title": "assda",
+        "description": "dsadsa",
+        "category": "Hardware",
+        "priority": "Baixa",
+        "attachment": "",
+        "status": "Aberto",
+        "created_at": "2025-04-30 15:36:36"
+    }
+]
